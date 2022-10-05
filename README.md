@@ -1,2 +1,4 @@
-# PBD-2022
-Tugas Mata Kuliah Praktikum Basis Data
+## Mata Kuliah Praktikum Basis Data
+### Repositori Praktikum
+- Nama: [Alfiki Diastama Afan Firdaus](http://github.com/alfikiafan)
+- Kelas: A
